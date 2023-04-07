@@ -19,3 +19,4 @@ and the python programming language.
  # DATA TRANSFORMATION
  
  The Data cleaning process was carried out in Jupyter notebook, an Integrated development Environment of the Anaconda Framework. the raw dataset consistent with Quirks, Nuances and irregularities. the code Above shows the Step by step approach to obtaining a clear and concise data cleaning process outputing a Clean dataset ready for Exploratory data analysis and optimisation.
+ 
